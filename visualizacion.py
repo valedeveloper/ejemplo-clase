@@ -13,3 +13,4 @@ analizar = DataAnalyzer(data)
 analizar.summary()
 analizar.correlation_matrix()
 analizar.categorical_analisis()
+###
